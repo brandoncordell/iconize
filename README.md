@@ -5,6 +5,11 @@ Iconize is a very lightweight (under 2kb packed or minified) jQuery plugin that 
 
 The icon added is based on the remote files extension.
 
+Supported Extensions
+--------------------
+
+jpg, jpeg, png, gif, bmp, svg, eps, mp3, wav, ogg, wma, m4a, mov, wmv, mp4, avi, mpg, fla, swf, doc, rtf, txt, xls, pdf, pps, ical, rss, atom, zip, rar, gzip, bzip, ace, tar, gz, exe, dmg, app, html, htm, css, js, php, phps, opml, vcard, vcf, xpi, ttf, and last but not least torrent.
+
 Usage
 -----
 
