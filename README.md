@@ -3,6 +3,8 @@ jquery.iconize.js
 
 Iconize is a very lightweight (under 2kb packed or minified) jQuery plugin that adds a content specific icon to each link that matches the selector.
 
+The icon added is based on the remote files extension.
+
 Usage
 -----
 
